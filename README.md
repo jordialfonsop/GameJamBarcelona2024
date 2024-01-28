@@ -30,7 +30,7 @@ The team is composed of 2 musicians, 2 artists, 5 developers and 1 game designer
 
 # CREDITS
 
-<p align="center">Game Designer:
+Game Designer:
 Arnau Salichs
 
 Programmers:
@@ -51,6 +51,6 @@ Sound Designer:
 William Gòmez
 
 Voice Effects:
-Cristina Frías </p>
+Cristina Frías
 
 
