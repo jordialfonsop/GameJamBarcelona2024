@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="200" src="https://github.com/jordialfonsop/GameJamBarcelona2024/blob/main/LOGO.png" alt="Logo">
+</p>
+
 # BRING IT BACK
 Bring it back is an immersive experience where you will be judged as the clown you are. 
 The King Teo is Sad! 
@@ -26,7 +30,7 @@ The team is composed of 2 musicians, 2 artists, 5 developers and 1 game designer
 
 # CREDITS
 
-<p style="text-align: center;">Game Designer:
+<p align="center">Game Designer:
 Arnau Salichs
 
 Programmers:
