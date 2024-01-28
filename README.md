@@ -26,27 +26,27 @@ The team is composed of 2 musicians, 2 artists, 5 developers and 1 game designer
 
 # CREDITS
 
-<p style="text-align: center;">Game Designer
+<p style="text-align: center;">Game Designer:
 Arnau Salichs
 
-Programmers
-Jordi Alfonso
-Lev Belyi
-Oriol Gallego
-Pau Pedrejon
+Programmers:
+Jordi Alfonso,
+Lev Belyi,
+Oriol Gallego,
+Pau Pedrejon,
 Roger Sans
 
 
-2D Artist
+2D Artist:
 Queralt Salichs
 
-3D Artist
+3D Artist:
 Junhao Liu
 
-Sound Designer
+Sound Designer:
 William Gòmez
 
-Voice Effects
+Voice Effects:
 Cristina Frías </p>
 
 
